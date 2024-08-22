@@ -28,4 +28,4 @@ The source code for our organization's official website. Contributions and impro
 ##  Official Website
 
 - Official Website: [wkusci.com](https://www.wkusci.com)
-- Wiki Resources: [wik.wkusci.com](https://wik.wkusci.com)
+- Wiki Resources: [wiki.wkusci.com](https://wik.wkusci.com)
