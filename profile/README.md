@@ -10,17 +10,16 @@
 
 # WKU-SRA
 
-Hi there 👋, Welcome to the WKU-SRA GitHub repository! We are a group of innovators passionate about science and technology. Here, you'll find our projects, resources, and community contributions.
-
+Welcome to the WKU-SRA GitHub repository! We are a team of innovators dedicated to advancing science and technology. Here, you'll find our projects, resources, and contributions from our community.
 
 ## Our Projects
 
-A comprehensive wiki that includes all our technical documentation and resources.
+Explore our comprehensive wiki featuring technical documentation, articles, and resources created by our team or sourced from the web.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WKU-SRA&repo=WKU-WIKI)](https://github.com/WKU-SRA/WKU-WIKI)   
 
 
-The source code for our organization's official website. Contributions and improvements are welcome!
+Check out the source code for our official website. We welcome contributions and improvements!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WKU-SRA&repo=WKU-SRA-Website)](https://github.com/WKU-SRA/WKU-SRA-Website)
 
